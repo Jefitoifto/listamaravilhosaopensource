@@ -6,7 +6,7 @@
 4. Push para a branch: `git push origin nova-branch`
 5. Abra um Pull Request
 
-## PR is Merged
+## PR is Mergedsdsddsdsdsdsd
 
 Depois que o seu PR for unido ao projeto, você pode deletar a sua branch.
 
